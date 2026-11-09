@@ -42,3 +42,7 @@ cargo test
 ```
 
 Lagwatch only reads process information through `ps`, `sysctl` and libproc. It needs no special permissions, sends nothing over the network, and only stops processes when you click a button.
+
+## License
+
+[MIT](LICENSE)
